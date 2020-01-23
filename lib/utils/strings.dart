@@ -43,7 +43,7 @@ class Strings {
         "\tUğurlu kokularınız: Manolya, lavanta, ıtır\n\n"
         "\tOlumlu özelliğiniz: Cesaret\n\n"
         "\tOlumsuz özelliğiniz: Acelecilik\n\n"
-        "\tAnlaştığınız burçlar:Aslan, Yay\n\n"
+        "\tAnlaştığınız burçlar Fatih SARI \n\n"
         "\tAnlaşamadığınız burçlar: Yengeç, Terazi, Oğlak\n\n"
         "\tBaşarılı olacağınız meslekler: Politikacılık, yöneticilik, işletmecilik, mühendislik, ressamlık, müzisyenlik, oyunculuk\n\n"
         "\tBurcunuzdan olan ünlüler: Fatih Sultan Mehmet,Sakıp Sabancı, Descartes, Charlie Chaplin, Vincent Van Gogh, Zeki Alasya\n\n",
